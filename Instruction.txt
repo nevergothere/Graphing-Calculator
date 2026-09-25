@@ -1,0 +1,17 @@
+Purpose:
+This graphing calculator allows you to graph basic polynomial and exponent function. It allows you to graph 2 different functions (indicated by different colors)
+at the same time. 
+
+Instruction for inputing a graph:
+
+Use lowercase x to indicate variables 
+Use (+,-,*,/,^) to indicate operators
+Use round bracket () to change the order of operations
+Click "Graph" to generate the graph
+Note: implicit multiplication is allowed (ex. 3x)
+
+Others:
+Click color 1,2 to change the color of the graph
+Scroll the mouse to change the density of gridlines
+Input the scale number to change how much one unit represent on x,y axis. (Default scale is 1)
+
