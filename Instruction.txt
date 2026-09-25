@@ -1,6 +1,6 @@
 Purpose:
-This graphing calculator allows you to graph basic polynomial and exponent function. It allows you to graph 2 different functions (indicated by different colors)
-at the same time. 
+This graphing calculator allows you to graph basic polynomial and exponent function. 
+It allows you to graph 2 different functions (indicated by different colors) at the same time. 
 
 Instruction for inputing a graph:
 
